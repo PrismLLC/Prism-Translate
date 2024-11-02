@@ -1,2 +1,5 @@
-# Prism-Translate
-Translate words and pronounce them.
+Prism Translate is a powerful and user-friendly translation tool that offers real-time word and phrase translation across multiple languages. With a simple interface, users can quickly input text, receive an accurate translation, and hear the translated words pronounced aloud. This text-to-speech functionality aids in understanding pronunciation, helping users not only learn new vocabulary but also improve their speaking skills in a target language.
+
+To maintain a respectful and safe environment, Prism Translate employs a content filtering system that blocks translations of inappropriate, offensive, or derogatory language. This feature makes Prism Translate suitable for use in educational settings, professional environments, and general communication, providing users with a reliable tool they can trust for constructive and respectful language learning.
+
+© Prism Translate 2024. All rights reserved. The Prism Translate platform, including its translation algorithms, text-to-speech technology, interface design, and data, is protected under international copyright law. Unauthorized reproduction, redistribution, or modification of Prism Translate’s content or features is strictly prohibited. Prism Translate’s name, logo, and associated materials are also trademarked. For any commercial or educational use, please contact Prism Translate for appropriate licensing options.
